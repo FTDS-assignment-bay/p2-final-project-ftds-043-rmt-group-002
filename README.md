@@ -4,7 +4,7 @@
 - Ainna Muslida Safira
 - Bimantyo Arya Majid
 - Dylan Sherwood Hanenkang
-- Syarief Qayum Suaib - [Linkedin](https://www.linkedin.com/in/syariefqayum/)
+- Syarief Qayum Suaib - [Linkedin](https://www.linkedin.com/in/syariefqayum/) | [Github](https://github.com/syariefsq)
 
 ## Project Overview
 
