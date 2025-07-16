@@ -3,7 +3,7 @@
 ## Group Members
 - Ainna Muslida Safira
 - Bimantyo Arya Majid
-- Dylan Sherwood Hanenkang - [Linkedin](www.linkedin.com/in/dylsherwood) [Github](https://github.com/Lynion)
+- Dylan Sherwood Hanenkang - [Linkedin](www.linkedin.com/in/dylsherwood) | [Github](https://github.com/Lynion)
 - Syarief Qayum Suaib - [Linkedin](https://www.linkedin.com/in/syariefqayum/) | [Github](https://github.com/syariefsq)
 
 ## Project Overview
