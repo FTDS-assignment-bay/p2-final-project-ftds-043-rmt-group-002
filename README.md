@@ -26,3 +26,6 @@ Today, more local perfume products are emerging, each with unique characteristic
 
 ## Dataset
 The dataset that used in this project is obtained from scrapping https://reviews.femaledaily.com/products/fragrance/edp?brand=&order=popular&page=1
+
+## Result/Deployment
+Our program deployment can be accessed on [Hugging Face](https://huggingface.co/spaces/Lynion/wangi)
