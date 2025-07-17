@@ -1,8 +1,9 @@
 # Final Project: RMT-043 Group 002
-
+  ![logo](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-043-rmt-group-002/blob/main/Logo_Wangi_Final.png)
+  
 ## Group Members
 - Ainna Muslida Safira - [Linkedin](www.linkedin.com/in/ainnamuslidasafira) | [Github](https://github.com/ainnamuslidasafira)
-- Bimantyo Arya Majid
+- Bimantyo Arya Majid - [Linkedin](https://www.linkedin.com/in/bimantyoarya/) | [Github](https://github.com/Bimantyo)
 - Dylan Sherwood Hanenkang - [Linkedin](www.linkedin.com/in/dylsherwood) | [Github](https://github.com/Lynion)
 - Syarief Qayum Suaib - [Linkedin](https://www.linkedin.com/in/syariefqayum/) | [Github](https://github.com/syariefsq)
 
