@@ -1,7 +1,7 @@
 # Final Project: RMT-043 Group 002
 
 ## Group Members
-- Ainna Muslida Safira
+- Ainna Muslida Safira - [Linkedin](www.linkedin.com/in/ainnamuslidasafira) | [Github](https://github.com/ainnamuslidasafira)
 - Bimantyo Arya Majid
 - Dylan Sherwood Hanenkang - [Linkedin](www.linkedin.com/in/dylsherwood) | [Github](https://github.com/Lynion)
 - Syarief Qayum Suaib - [Linkedin](https://www.linkedin.com/in/syariefqayum/) | [Github](https://github.com/syariefsq)
@@ -27,5 +27,6 @@ Today, more local perfume products are emerging, each with unique characteristic
 ## Dataset
 The dataset that used in this project is obtained from scrapping https://reviews.femaledaily.com/products/fragrance/edp?brand=&order=popular&page=1
 
-## Result/Deployment
-Our program deployment can be accessed on [Hugging Face](https://huggingface.co/spaces/Lynion/wangi)
+## Dashboard and Deployment
+* Our program deployment can be accessed on [Hugging Face](https://huggingface.co/spaces/Lynion/wangi)
+* Dashboard can be accessed on [Tableau](https://public.tableau.com/views/Final-Project-RMT-043-Group-02/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
