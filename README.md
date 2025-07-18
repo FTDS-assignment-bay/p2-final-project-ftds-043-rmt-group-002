@@ -70,6 +70,19 @@ Today, more local perfume products are emerging, each with unique characteristic
  7. **Recommendation Engine:** Ranked products based on similarity scores and returned up to eight perfumes most relevant to the user’s stated preferences.
  8. **Deployment:** Deployed the trained recommendation system as a user-friendly web application using streamlit and huggingface, allowing real-time perfume search and recommendation for end users. 
 
+## 🧰 Tech Stack
+
+This project utilizes a variety of tools and libraries for data processing, modeling, and deployment:
+
+- **Programming Language:** `Python`
+- **Data Manipulation:** `Pandas`, `NumPy`
+- **Web Scraping:** `Selenium`, `Beautifulsoup`
+- **Natural Language Processing:** `NLTK`, `Googletrans`
+- **Machine Learning & Modeling:** `Scikit-learn`, `Sentence Transformers`
+- **Data Visualization:** `Matplotlib`, `Seaborn`, `Tableau`
+- **Deployment:** `Streamlit`, `HuggingFace`
+- **Model Serialization:** `Pickle`
+
 ---
 
 ## 🌱 Next Steps
