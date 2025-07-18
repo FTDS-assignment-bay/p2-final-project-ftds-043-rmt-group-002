@@ -1,5 +1,8 @@
 # Final Project: RMT-043 Group 002
-  ![logo](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-043-rmt-group-002/blob/main/Logo_Wangi_Final.png)
+
+  <div align="center">
+    <img src="https://github.com/FTDS-assignment-bay/p2-final-project-ftds-043-rmt-group-002/blob/main/Logo_Wangi_Final.png" width="500"/>
+  </div>
 
 ---
 ## 💡Project Overview
