@@ -4,7 +4,9 @@
 ---
 ## 💡Project Overview
 
-**Wangi is a machine learning-based application designed to help users discover perfumes that best match their personal preferences.** By leveraging Natural Language Processing (NLP) to interpret both product descriptions and real user reviews, Wangi provides accurate and personalized perfume recommendations, especially for online shoppers who cannot sample scents directly.
+**Wangi is an AI-powered perfume recommendation app that helps users discover fragrances based on real customer reviews.** Using natural language understanding, Wangi matches your scent preferences like “sweet floral for daily use”  with the most suitable perfumes that available to purchase in Indonesia.
+
+Wangi makes perfume discovery easier for everyone from curious shoppers to beauty brands wanting smarter insights.
 
 ---
 
